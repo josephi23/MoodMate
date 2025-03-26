@@ -101,7 +101,7 @@ Prototypes will aim for a soft, calming design with intuitive navigation.
 - Figma for UI design
 
 **User Testing Plan:**
-- Conduct informal testing with 2–3 peers
+- Conduct informal testing which would be done by me the project manager
 - Focus on mood logging, journal entry, and ease of use
 - Collect written feedback on UI clarity and usability
 
