@@ -4,8 +4,7 @@ MoodMate is a daily journaling and mood tracking web app designed to help users 
 
 ## 1. UI Prototypes
 
-Figma link: https://www.figma.com/proto/QOLQQKnLokCHoRG0JuB48o/Untitled?node-id=162-7&p=f&t=TXmVaqr8iTZMLUXT-0&scaling=min-zoom&content-scaling=fixed&page-id=162%3A6
-
+Figma link:https://www.figma.com/proto/BWemAEvPVI0Q5P1Hg2nUJR/Untitled?node-id=1-3&p=f&t=y8bvZUoGoJC5N3Bm-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 Wireframes will be designed using Figma (or any preferred tool) and will include:
 
 - Dashboard – Mood selection and daily quote
